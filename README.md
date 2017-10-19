@@ -1,10 +1,6 @@
-# Withings API Ruby Gem
+# Nokia Health API Ruby Gem
 
-[![Build Status](http://img.shields.io/travis/paulosman/withings-sdk.svg)][travis]
-[![Code Climate](https://codeclimate.com/github/paulosman/withings-sdk/badges/gpa.svg)][codeclimate]
-[![Test Coverage](https://codeclimate.com/github/paulosman/withings-sdk/badges/coverage.svg)][coverage]
-[![Dependency Status](https://gemnasium.com/paulosman/withings-sdk.svg)][gemnasium]
-[![Gem Version](https://badge.fury.io/rb/withings-sdk.svg)][gemversion]
+*This gem was forked from [paulosman](https://github.com/paulosman) where the only change made is the relevant base URI for API requests*
 
 This gem provides access to data collected by [Withings](http://withings.com/) devices through
 their [HTTP API](https://oauth.withings.com/api/doc).
