@@ -4,7 +4,7 @@ require 'net/http'
 
 module WithingsSDK
   module HTTP
-    BASE_URI = 'https://wbsapi.withings.net'
+    BASE_URI = 'https://api.health.nokia.com/'
 
     class Request
       def initialize(access_token, headers)
